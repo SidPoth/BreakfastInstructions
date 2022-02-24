@@ -1,2 +1,3 @@
-# BreakfastInstructions
-This is the breakfast instructions for mom and armando.
+# sidpoth.github.io
+Main page to link to all my ENGL 3814 assignments
+
